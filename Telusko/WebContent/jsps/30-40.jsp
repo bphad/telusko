@@ -42,8 +42,8 @@
 			<div class="col-md-6">
 			<h4>Links</h4>
 			<a href="${pageContext.request.contextPath}/Show-10-20">Show Top 5 Students Between Age 10-20</a><br>
-			<a href="${pageContext.request.contextPath}/Show-20-30">Show Top 5 Students Between Age 10-20</a><br>
-			<a href="${pageContext.request.contextPath}/Show-30-40">Show Top 5 Students Between Age 10-20</a><hr>
+			<a href="${pageContext.request.contextPath}/Show-20-30">Show Top 5 Students Between Age 20-30</a><br>
+			<a href="${pageContext.request.contextPath}/Show-30-40">Show Top 5 Students Between Age 30-40</a><hr>
 			<h3>Top 5 from age group 30-40</h3>
 				 <table
 					class="table table-striped table-bordered table-hover table-condensed">
