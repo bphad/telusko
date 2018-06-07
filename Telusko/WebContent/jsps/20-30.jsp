@@ -11,7 +11,6 @@
 <title>Telusko Internship</title>
 </head>
 <body>
-
 <h1>Telusko Internship</h1>
 	<hr>
 	<div class="container-fluid" style="margin-top: 50px">

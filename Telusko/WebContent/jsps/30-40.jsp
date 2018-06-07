@@ -9,7 +9,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <title>Telusko Internship</title>
 <body>
-
 <h1>Telusko Internship</h1>
 	<hr>
 	<div class="container-fluid" style="margin-top: 50px">
